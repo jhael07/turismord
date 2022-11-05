@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/turismord/static/css/main.65f8d7d0.css",
+    "main.js": "/turismord/static/js/main.bfe83f93.js",
+    "index.html": "/turismord/index.html",
+    "main.65f8d7d0.css.map": "/turismord/static/css/main.65f8d7d0.css.map",
+    "main.bfe83f93.js.map": "/turismord/static/js/main.bfe83f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f8d7d0.css",
+    "static/js/main.bfe83f93.js"
+  ]
+}
