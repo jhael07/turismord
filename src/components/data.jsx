@@ -1,6 +1,6 @@
 export default [
   {
-    title: "Punta Cana",
+    title: "Santo Domingo",
     location: "La Altagracia",
     link: "#",
     description:
@@ -21,9 +21,9 @@ export default [
     title: "Dunas de Baní",
     location: "Peravia",
     link: "#",
-    description: "El maravilloso paisaje de Las Dunas de Baní es un tesoro nacional de la República Dominicana, gracias a sus altas montañas de arena blanca fina y el sol tan cálido como en pocos lugares del país. Esta reserva científica que responde al nombre original de Monumento Natural Félix Servio Ducoudray, es considerada uno de los espacios naturales más hermosos de la isla.",
+    description:
+      "El maravilloso paisaje de Las Dunas de Baní es un tesoro nacional de la República Dominicana, gracias a sus altas montañas de arena blanca fina y el sol tan cálido como en pocos lugares del país. Esta reserva científica que responde al nombre original de Monumento Natural Félix Servio Ducoudray, es considerada uno de los espacios naturales más hermosos de la isla.",
     image:
       "https://viajerosocultos.com/wp-content/uploads/2021/08/800px-Dunas_de_Bani_y_sus_costas.jpg",
   },
 ];
-
