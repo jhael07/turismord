@@ -120,33 +120,37 @@ body {
 }
 
 @media only screen and (min-width: 360px) and (max-width: 768px) {
+  .navbar {
+    width: 100%;
+  }
+  .places {
+    width: 100%;
+  }
   .places-cards {
     display: block;
   }
   .places-cards hr {
     display: none;
   }
-  .info{
+  .info {
     width: 95%;
   }
 
-  .info h1{
+  .info h1 {
     text-align: left;
   }
 
   .places img {
-
     width: 70vw;
     height: 45vw;
     border-radius: 0.5rem;
     box-shadow: -10px 10px 25px -10px rgba(85, 84, 84, 0.612);
   }
 
-  .creador{
+  .creador {
     display: none;
   }
 }
-
 
 @media only screen and (min-width: 768px) and (max-width: 1280px) {
   .places-cards {
@@ -155,22 +159,21 @@ body {
   .places-cards hr {
     display: none;
   }
-  .info{
+  .info {
     width: 95%;
   }
 
-  .info h1{
+  .info h1 {
     text-align: left;
   }
 
   .places img {
-
     width: 70vw;
     height: 45vw;
     border-radius: 0.5rem;
     box-shadow: -10px 10px 25px -10px rgba(85, 84, 84, 0.612);
   }
-  .creador{
+  .creador {
     display: none;
   }
 }
