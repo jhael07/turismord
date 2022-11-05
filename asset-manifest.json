@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/turismord/static/css/main.79694820.css",
-    "main.js": "/turismord/static/js/main.24c58e58.js",
+    "main.css": "/turismord/static/css/main.e0e6363d.css",
+    "main.js": "/turismord/static/js/main.e3c2ae12.js",
     "index.html": "/turismord/index.html",
-    "main.79694820.css.map": "/turismord/static/css/main.79694820.css.map",
-    "main.24c58e58.js.map": "/turismord/static/js/main.24c58e58.js.map"
+    "main.e0e6363d.css.map": "/turismord/static/css/main.e0e6363d.css.map",
+    "main.e3c2ae12.js.map": "/turismord/static/js/main.e3c2ae12.js.map"
   },
   "entrypoints": [
-    "static/css/main.79694820.css",
-    "static/js/main.24c58e58.js"
+    "static/css/main.e0e6363d.css",
+    "static/js/main.e3c2ae12.js"
   ]
 }
