@@ -9,10 +9,12 @@ const Elements = (props) => {
           <h1>
             {props.title}{" "}
             <span className="location">| Provincia {props.location} | </span>
-            <span className="location mapa">
-              ver en el mapa <img src={props.url} className="ubicacion"></img>
-              {props.link}
-            </span>
+            <a href={props.link}>
+              <span className="location mapa">
+                ver en el mapa <img src={props.url} className="ubicacion"></img>
+                {props.link}
+              </span>
+            </a>
           </h1>
           <p>{props.description}</p>
         </div>
@@ -25,16 +27,17 @@ const Elements = (props) => {
 export default () => {
   const dataMap = Data.map((el, i) => {
     return (
-      <div className="linea" key={i} >
+      <div className="linea" key={i}>
         <Elements
           image={el.image}
           title={el.title}
           location={el.location}
           description={el.description}
           url="./images/map-logo.svg"
+          link={el.link}
         />
       </div>
     );
   });
-  return <div >{dataMap}</div>;
+  return <div>{dataMap}</div>;
 };
