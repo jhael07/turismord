@@ -1,6 +1,6 @@
 export default [
   {
-    title: "Santo Domingo",
+    title: "Punta Cana",
     location: "La Altagracia",
     link: "#",
     description:
